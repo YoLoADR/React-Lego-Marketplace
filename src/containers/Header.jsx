@@ -8,7 +8,7 @@ function Header() {
       }}
     >
       <div className="text-left">
-        <h1 className="text-4xl font-bold text-green">
+        <h1 className="text-4xl font-bold text-black">
           Nos produits de Noël !
         </h1>
         <p className="mt-6 text-lg text-white">
