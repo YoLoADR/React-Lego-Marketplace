@@ -6,7 +6,7 @@
   }
 
   .menu {
-    background-color: #d784b4;
+    background-color: #84bbd7;
     padding: 10px;
     position: fixed;
     top: 0;
@@ -15,19 +15,19 @@
   }
 
   .header {
-    background-color: #1e00ff;
+    background-color: #6a677e;
     padding: 10px;
     margin-top: 40px; /* Adjust this based on the height of your menu */
   }
 
   .content {
-    background-color: lawngreen;
+    background-color: #e8546b;
     padding: 10px;
     flex-grow: 1;
   }
 
   .footer {
-    background-color: red;
+    background-color: #ab9b9b;
     padding: 10px;
     position: fixed;
     bottom: 0;
