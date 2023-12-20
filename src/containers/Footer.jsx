@@ -7,7 +7,7 @@ function Footer() {
           <h1 className="text-2xl font-bold">Mon Entreprise</h1>
           <nav className="mt-2">
             <a href="#home" className="mr-4 hover:underline">
-              Accueil
+              Home
             </a>
             <a href="#about" className="mr-4 hover:underline">
               À propos
